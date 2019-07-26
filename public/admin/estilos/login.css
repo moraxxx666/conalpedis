@@ -1,0 +1,15 @@
+form{
+    
+    display: flex;
+    align-items: center;
+}
+button{
+    width: 100%;
+}
+.collection .collection-item{
+    background:red;
+    
+}
+.collection{
+    margin-bottom: 15px;
+}

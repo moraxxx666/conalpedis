@@ -43,6 +43,10 @@
 	}
 </style>
 <style>
+body,.nav{
+	font-family:viga;
+	font-size: 16px;
+}
 	.izq {}
 
 	.der {}
@@ -277,7 +281,7 @@
 				if (wscript !== null) {
 					wscript.SendKeys("{F11}")
 				}
-			}
+			}acce
 		}
 
 		function decir(texto) {

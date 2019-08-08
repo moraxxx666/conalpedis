@@ -1,3 +1,14 @@
+<style>
+pre{
+    white-space:pre-wrap;
+    white-space:-moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    
+}
+
+</style>
 <main>
     <div class="row">
         <div class="col m10 s12 izq ">
